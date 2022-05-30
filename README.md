@@ -1,15 +1,14 @@
 # Object Cache Pro
 
-== Object Cache Pro ===
- Plugin Name: Object Cache Pro
- Plugin URI: https://objectcache.pro
- Description: A business class Redis object cache backend for WordPress.
- Version: 1.14.1
- Author: Rhubarb Group
- Author URI: https://rhubarb.group
- License: Proprietary
- Network: true
- Requires PHP: 7.0
+Plugin Name: Object Cache Pro
+Plugin URI: https://objectcache.pro
+Description: A business class Redis object cache backend for WordPress.
+Version: 1.14.1
+Author: Rhubarb Group
+Author URI: https://rhubarb.group
+License: Proprietary
+Network: true
+Requires PHP: 7.0
 
 A **business class** Redis object cache backend for WordPress.
 
